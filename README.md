@@ -1,3 +1,2 @@
-a WHAT website created with React + styled component
-+ using WHAT...
-![Screenshot of the site](./screenshots/Agensy-website-800.png)
+a simple voting app created with React to practise using redux.
+
